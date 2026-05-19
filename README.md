@@ -1,1 +1,1 @@
-Spotify Clone, for practicing basic html,css,js 
+Spotify Clone, for practicing basic html,css.
